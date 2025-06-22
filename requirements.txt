@@ -1,3 +1,5 @@
+streamlit
 ultralytics
-gradio
 gdown
+numpy
+pillow
