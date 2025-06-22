@@ -1,5 +1,7 @@
 # 🔍 PCB Defect Detection with YOLOv11
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pcb-deffect.streamlit.app/)
+
 ## 📜 Descrição
 
 Este projeto tem como objetivo implementar um modelo de **detecção automática de defeitos em placas de circuito impresso (PCBs)** utilizando a arquitetura **YOLOv11**.  
